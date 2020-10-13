@@ -4,7 +4,7 @@ Enumerate subdomains, capture screenshot of all the subdomains
 ## Setup
 
 1. Get the excutable files for following
-   - gowitness
+   - gotwitness
    - amass
    - subfinder
    - finddomain
